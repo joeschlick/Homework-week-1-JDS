@@ -1,2 +1,2 @@
 # Homework-week-1-JDS
-Final files for homework assignment 1: Code Refactor
+Joe Schlick's final files for homework assignment 1: Code Refactor
